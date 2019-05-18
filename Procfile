@@ -1,0 +1,1 @@
+web: gunicorn jdbapp.app:app
